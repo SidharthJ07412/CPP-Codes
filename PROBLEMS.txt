@@ -1,0 +1,11 @@
+QUE1: Write a c++ code to print hello world.
+
+
+QUE2: Write a base Class Shape, which is inherited by a child class circle. The class circle returns the area of a circle.
+
+
+QUE3: A list of integers is to be maintained in an array. Write a class List that provides the following facilities. access/get an nth integer in the list insert a new integer in the array at beginning insert a new integer in the array at end insert a new integer at position k (that is, k th element in the current list becomes k+1 th element) remove the element at k th position get the size of the list print the list.
+
+
+QUE4: OMR FORM (Partial Form)Image of a form filtered for a particular color is available as a 2D array of pixels. (0 or 1, 1000 x 1000). Write a class for identifying blots (at least 10 contiguous pixels) in this image. Provide a way so that given a rectangle, the class can indicate if a blot or its part is contained in it.
+
